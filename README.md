@@ -24,3 +24,4 @@
 ## gitmojis
 ### los gitmojis son emojis solo que cada uno tiene una función distina a un emoji normal.
 ### por ejemplo, el :memo: tiene la funcionalidad de agregar o subir un documento, los :sparkles: tiene como fin introducir nuevos cambios.
+gracias :D
