@@ -1,0 +1,19 @@
+*{
+    margin: 0 auto;
+}
+
+body{
+    font-family: arial;
+    color: black;
+    margin: 20%;
+    background-color: #343434;
+    text-align: center;
+}
+h1{
+    background-color: #983245;
+    margin-bottom: 10%;
+    border-radius: 12px;
+}
+p{
+    margin: 5%;    
+}
